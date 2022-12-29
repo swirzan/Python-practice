@@ -13,3 +13,8 @@ print(friends)
 
 friends2 = friends.copy()
 print(friends2)
+
+
+# TUPLES
+coordinates = (3, 5)
+print(coordinates)

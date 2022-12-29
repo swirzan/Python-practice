@@ -12,3 +12,10 @@ elif opearate == "*":
     print(num1 * num2)
 else:
     print("Invalid opearator")
+
+
+# Output
+# 12 + 5 = 17.0
+# 12 - 5 = 7.0
+# 12 / 5 = 2.4
+# 12 * 5 = 60.0

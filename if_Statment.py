@@ -8,4 +8,4 @@ elif is_male and not (is_tall):
 elif not (is_male) and is_tall:
     print("You are not a male but are tall")
 else:
-    print("You are either not male or not tall")
+    print("You are not a male and not tall")

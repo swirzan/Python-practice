@@ -1,5 +1,5 @@
-monthConversions = {
-    0: "January",
+month_conversions = {
+    "Jan": "January",
     "Feb": "February",
     "Mar": "March",
     "Apr": "April",
@@ -13,4 +13,4 @@ monthConversions = {
     "Dec": "December"
 }
 
-print(monthConversions.get(1, "Not a valid key"))
+print(month_conversions.get("Aug", "Not a valid"))

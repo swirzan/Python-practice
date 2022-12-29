@@ -6,8 +6,7 @@ say_hello("Wirzan", 17)
 
 
 def cube(num):
-    num*num*num
-    return
+    return num*num*num
 
 
 print(cube(3))
