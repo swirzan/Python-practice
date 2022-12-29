@@ -16,3 +16,14 @@ if out_of_guesses:
 
 else:
     print("You win")
+
+# Output
+# Guess the secret word: Good
+# Guess the secret word: Hello
+# Guess the secret word: MSPM
+# You win
+
+# Guess the secret word: hello
+# Guess the secret word: World
+# Guess the secret word: hi
+# Out of guesses, YOU LOSE!
